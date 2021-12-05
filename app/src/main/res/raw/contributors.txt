@@ -5,8 +5,9 @@ Allan Nordhøy
 Heimen Stoffels
 mondstern
 solokot
-Taco
 Oğuz Ersen
+Taco
+Katharine Chui
 IllusiveMan196
 Petr Novák
 Gediminas Murauskas
@@ -18,7 +19,6 @@ arno-github
 Ankit Tiwari
 Sergio Paredes
 arshbeerSingh
-Katharine Chui
 huuhaa
 Miha Frangež
 Michael Moroni
@@ -62,7 +62,7 @@ Mattia
 Michael Gangolf
 pbeckmann
 Peer Beckmann
-QuangDNguyen2211
+Quang Nguyen
 Reza
 Rohan Babbar 
 Ronak Upadhyay
