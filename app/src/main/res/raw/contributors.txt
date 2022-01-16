@@ -12,15 +12,15 @@ Petr Novák
 Taco
 Joel A
 Gediminas Murauskas
+Altonss
 StoyanDimitrov
 Nyatsuki
-Altonss
 Samantaz Fox
 arno-github
 Ankit Tiwari
 Sergio Paredes
-laralem
 Michael Moroni
+laralem
 arshbeerSingh
 huuhaa
 Miha Frangež
@@ -32,6 +32,7 @@ K. Herbert
 Quentin PAGÈS
 String E. Fighter
 Yurical
+Silvério Santos
 /usr/local/ΕΨΗΕΛΩΝ
 Adolfo Jayme-Barrientos
 Alessandro Mandelli
