@@ -14,8 +14,8 @@ Petr Novák
 Joel A
 Taco
 Gediminas Murauskas
-Nyatsuki
 Michael Moroni
+Nyatsuki
 Samantaz Fox
 arno-github
 Ankit Tiwari
@@ -76,7 +76,7 @@ Flav
 Franciszek Stefan
 Grzegorz
 Izzy
-Karol Kosek
+krkk
 bittin
 Marco
 Mattia
