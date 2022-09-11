@@ -14,8 +14,8 @@ Petr Novák
 Joel A
 Taco
 Gediminas Murauskas
-Nyatsuki
 Michael Moroni
+Nyatsuki
 Samantaz Fox
 arno-github
 Ankit Tiwari
@@ -93,7 +93,7 @@ Rose Liverman
 Samarth Asthan
 Simone Dotto
 Subhashish Anand
-darkodo
+Tony C
 Tymofii Lytvynenko
 Vancha March
 Yevgeny M
