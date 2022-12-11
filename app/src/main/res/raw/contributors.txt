@@ -34,7 +34,7 @@ Arnis Jaundzeikars
 sr093906
 mdvhimself
 Katarzyna
-Maciej Błędkowski
+echo r"0xX4H" | rev
 Magnitudee
 Olivia (Zoe)
 betsythefc
@@ -130,7 +130,7 @@ Lucas da Costa
 bittin
 Manan Jhaveri
 Marco
-Mario M. Viscovich
+BRBsoup
 Mattia
 Md. Al-Amin
 Michael Gangolf
