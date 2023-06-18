@@ -19,32 +19,33 @@ Taco
 pfaffenrodt
 Nyatsuki
 laralem
+gallegonovato
 Samantaz Fox
 arno-github
 Ankit Tiwari
 Sergio Paredes
 Aayush Gupta
-gallegonovato
 huuhaa
 arshbeerSingh
 Freddo espresso
 Quentin PAGÈS
+Silvério Santos
 Miha Frangež
-Arnis Jaundzeikars
+Arnis Jaundžeikars
 sr093906
+Giovanni Donisi
 mdvhimself
 Katarzyna
-Maciej Błędkowski
+echo r"0xX4H" | rev
 Magnitudee
 Olivia (Zoe)
 betsythefc
-Silvério Santos
 waffshappen
 Robin
 Eric
 Alexander Ivanov
 ati3
-Giovanni
+HudobniVolk
 Jane Kong
 K. Herbert
 Lisa A.
@@ -70,12 +71,13 @@ Diego
 Evgeniy Khramov
 Fede Pujol
 Jean-Luc Tibaux
+Jiri Grönroos
 Lukas Grassauer
 Marnick L'Eau
 Michalis
 Michał
 Mohamed A. Salah
-Neko Nekowazarashi
+the7thNightmare
 Rishi Agarwal
 Rosdyana Kusuma
 umoenks
@@ -94,7 +96,7 @@ phlostically
 Ágata Leuck
 BmBKun
 Aditya Das
-Asier
+asier123123131
 Kevin Sicong Jiang
 Tomer Ben-Rachel
 tfuxu
@@ -102,15 +104,15 @@ Ahmed Saleh
 Airat
 sNiXx
 Angela Enogieru
-AnimeshChatterjee1
+Animesh Chatterjee
 Ashish Yadav
 Aya Elsaadany
 Biren
 Booc Sylvan
 CherryMonster222
-Colgrave
 Csaba
 Mylou53
+Dan
 danieluhrinyi
 Kasina Dheeraj
 Donno
@@ -123,14 +125,14 @@ Jacek
 Jacopo Gennaro Esposito
 Jean Mareilles
 Jean-Baptiste
-人工知能
+Kung-chih
 krkk
 Laura Ferraz 
 Lucas da Costa
-bittin
+Luna Jernberg
 Manan Jhaveri
 Marco
-Mario M. Viscovich
+BRBsoup
 Mattia
 Md. Al-Amin
 Michael Gangolf
@@ -140,6 +142,7 @@ DivideEtImpera
 Nicolas
 pbeckmann
 Peer Beckmann
+Piotr Strebski
 Piotr Zet
 Quang Nguyen
 Ratnesh
@@ -149,11 +152,13 @@ Ronak Upadhyay
 Rose Liverman
 SKULD
 Samarth Asthan
+Shailendra Maurya
 Simone Dotto
 Subhashish Anand
-TenTraicion
+Mehedi Hasan
 Titas Pažereckas
 Tom Sawyer
+atakujonc
 Tony C
 Tymofii Lytvynenko
 Vancha March
@@ -169,11 +174,13 @@ polarhun
 pooyanazari
 psa-jforestier
 sergio
+080502
 Marcus
 techwebpd
 Truestorybaby 
 tygyh
 unstartdev
+wmilan 17
 luoyang3
 JaeBeom An
 JungHee Lee
